@@ -1,0 +1,10 @@
+# file generati da Maven
+target/
+# impostazioni personali di IntelliJ
+.idea/
+*.iml
+# file compilati e di sistema
+*.class
+.DS_Store
+# backup di Visual Paradigm
+*.vpp.bak*
